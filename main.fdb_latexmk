@@ -1,6 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1730945508.03815 "c:/Users/Swarleyteddy/Documents/Burocrazia/CV2024/CV.tex" "CV.pdf" "CV" 1730945512.66811 0
-  "C:/Users/Swarleyteddy/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1730944003 220421 80cc1ca1c5c5c6ebbccdaa47aa928591 ""
+["pdflatex"] 1730994148.44134 "c:/Users/Swarleyteddy/Documents/Burocrazia/CV2024/main.tex" "main.pdf" "main" 1730994151.80948 0
+  "01_Colonna_sinistra.tex" 1730993637 2934 5059729abac652b0ff6cd05173cac010 ""
+  "02_Colonna_destra.tex" 1730994006 3695 e933fc93f37a3f16bdfd838859bfff75 ""
+  "03_Competenze.tex" 1730992314 8846 0d0e7dbaebf144b1d74848631726ee48 ""
+  "C:/Users/Swarleyteddy/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1730946485 220421 80cc1ca1c5c5c6ebbccdaa47aa928591 ""
   "C:/Users/Swarleyteddy/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1730939359 24228350 6cfa2a4322a3f28ac0372800a1f26261 ""
   "C:/Users/Swarleyteddy/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fira/fir_2mfh3o.enc" 1570723679 3443 c184b8b1bd90c3ec5d4289b992e64d96 ""
   "C:/Users/Swarleyteddy/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fira/fir_d67aat.enc" 1570723675 3385 21a7e8c8dac3c39de5acda2c56e7bd7e ""
@@ -201,14 +204,14 @@
   "C:/Users/Swarleyteddy/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/Swarleyteddy/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1695383086 2269 4fe6fb3396214c91f164d45faf9bec45 ""
   "C:/Users/Swarleyteddy/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1695383086 20785 f7d1133a287929598a897c93f8f4c44b ""
-  "CV.aux" 1730945511 299 4d78a8fd01ce7ba875d52292403967ce "pdflatex"
-  "CV.out" 1730945511 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "CV.tex" 1730945501 18412 c8aa81fb43831e354e88883aadcf9874 ""
   "Foto_profilo.jpg" 1730939675 125983 3987d11819819702ad74c80d67d6de8c ""
-  "c:/Users/Swarleyteddy/Documents/Burocrazia/CV2024/CV.tex" 1730945501 18412 c8aa81fb43831e354e88883aadcf9874 ""
+  "c:/Users/Swarleyteddy/Documents/Burocrazia/CV2024/main.tex" 1730994146 2889 2ed938c16aa6d3ceaecc26278a98f634 ""
+  "main.aux" 1730994151 299 4d78a8fd01ce7ba875d52292403967ce "pdflatex"
+  "main.out" 1730994150 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1730994146 2889 2ed938c16aa6d3ceaecc26278a98f634 ""
   (generated)
-  "CV.aux"
-  "CV.log"
-  "CV.out"
-  "CV.pdf"
+  "main.aux"
+  "main.log"
+  "main.out"
+  "main.pdf"
   (rewritten before read)
