@@ -1,0 +1,86 @@
+%%% INFO %%%
+% CV di Andrea Alfonso Tedeschi
+% Aggiornato al 2024-11-10
+% Versione 17.0
+
+\documentclass[11pt, a4paper]{article} 
+
+%%% PACKAGE UTILIZZATI %%%
+\usepackage[T1]{fontenc}     % We are using pdfLaTeX,
+\usepackage[utf8]{inputenc}  % hence this preparation
+\usepackage[italian]{babel}  
+\usepackage[left = 0mm, right = 0mm, top = 0mm, bottom = 0mm]{geometry}
+\usepackage[stretch = 25, shrink = 25, tracking=true, letterspace=30]{microtype}  
+\usepackage{graphicx}        % To insert pictures
+\usepackage{xcolor}          % To add colour to the document
+\usepackage{marvosym}        % Provides icons for the contact details
+\usepackage{fontawesome5}    % Pacchetto di icone aggiuntive
+\usepackage{tikz}            % Pacchetto 1 per le ombreggiature
+\usetikzlibrary{shadows}     % Pacchetto 2 per le ombreggiature
+% alcuni stili... diciamo predefiniti: si differenziano per il tipo di ombreggiatura
+\tikzset{riquadro 1/.style={inner sep=2pt,draw, fill=white,drop shadow}}
+\tikzset{riquadro 2/.style={inner sep=2pt,draw, fill=cvblue,drop shadow}}
+% comando per impostare il tipo di riquadro
+\newcommand{\usariquadro}[1]{\tikzset{riquadro/.style={#1}}}
+% ad esempio
+\usariquadro{riquadro 1}
+
+% comando per inserire la figura con riquadro ed ombreggiatura
+\newcommand{\riquadraombreggia}[2][]{
+\tikz[baseline=-0.5ex]\node[riquadro]{\includegraphics[#1]{#2}};
+}
+
+\newcommand{\frameshadow}[2][]{
+\tikz[baseline=0ex]\node[riquadro 2]{\includegraphics[#1]{#2}};
+}
+
+
+\usepackage{enumitem}        % To redefine spacing in lists
+\setlist{parsep = 0pt, topsep = 0pt, partopsep = 1pt, itemsep = 1pt, leftmargin = 6mm}
+
+\usepackage{FiraSans}        % Change this to use any font, but keep it simple
+\renewcommand{\familydefault}{\sfdefault}
+
+\usepackage{tcolorbox}       % Per creare riquadri colorati
+\usepackage{mdframed}        % Per creare riquadri colorati
+
+\usepackage{xcolor}			% Per impostare i colori
+
+\usepackage[colorlinks = true, urlcolor = white, linkcolor = white]{hyperref} % Per gestire i link ipertestuali
+\definecolor{cvblue}{HTML}{304263}
+
+\usepackage{fp}              % Per fare calcoli numerici
+
+%%% USER COMMAND DEFINITIONS %%%
+\newcommand{\dates}[1]{\hfill\mbox{\textbf{#1}}} % Bold stuff that doesn’t got broken into lines
+\newcommand{\is}{\par\vskip.5ex plus .4ex} % Item spacing
+\newcommand{\smaller}[1]{{\small$\diamond$\ #1}}
+\newcommand{\headleft}[1]{\vspace*{3ex}\textsc{\textbf{#1}}\par%
+    \vspace*{-1.5ex}\hrulefill\par\vspace*{0.7ex}}
+\newcommand{\headright}[1]{\vspace*{2.5ex}\textsc{\Large\color{cvblue}#1}\par%
+     \vspace*{-2ex}{\color{cvblue}\hrulefill}\par}
+\newcommand{\headtitle}[1]{\vspace*{2.5ex}\textsc{\Large\color{white}#1}\par%
+     \vspace*{-2ex}{\color{red}\hrulefill}\par}
+
+%%% INIZIO DOCUMENTO %%%
+\begin{document}
+
+% Style definitions -- killing the unnecessary space and adding the skips explicitly
+\setlength{\topskip}{0pt}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\setlength{\fboxsep}{0pt}
+\pagestyle{empty}
+\raggedbottom
+
+\input{01_Colonna_sinistra.tex}
+\hskip2.0em						% Left margin for the white area
+\input{02_Colonna_destra.tex}
+
+\input{04_CarrieraTV.tex}
+
+\input{03_Competenze.tex}
+
+%\input{04_CarrieraTV.tex}
+
+\end{document}
