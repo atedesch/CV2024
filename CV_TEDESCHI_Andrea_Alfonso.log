@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.7)  18 NOV 2024 18:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.7)  26 NOV 2024 15:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -639,37 +639,37 @@ Package: fp-upn 1996/10/21
 ) (C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-eval.sty
 Package: fp-eval 1995/04/03
 ))
-LaTeX Font Info:    Trying to load font information for T1+FiraSans-OsF on input line 66.
+LaTeX Font Info:    Trying to load font information for T1+FiraSans-OsF on input line 72.
  (C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\tex/latex/fira\t1firasans-osf.fd
 File: T1FiraSans-OsF.fd 2019/10/10 (autoinst) Font definitions for T1/FiraSans-OsF.
 )
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <10.95> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 66.
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 72.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 10.95pt on input line 66.
+(Font)              scaled to size 10.95pt on input line 72.
  (CV_TEDESCHI_Andrea_Alfonso.aux)
 \openout1 = `CV_TEDESCHI_Andrea_Alfonso.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Info: Redefining \it@ocap on input line 66.
-LaTeX Info: Redefining \it@ccap on input line 66.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Info: Redefining \it@ocap on input line 72.
+LaTeX Info: Redefining \it@ccap on input line 72.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -705,19 +705,19 @@ LaTeX Info: Redefining \it@ccap on input line 66.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 66.
-Package microtype Info: Applying patch `item' on input line 66.
-Package microtype Info: Applying patch `toc' on input line 66.
-Package microtype Info: Applying patch `eqnum' on input line 66.
-Package microtype Info: Applying patch `footnote' on input line 66.
-Package microtype Info: Applying patch `verbatim' on input line 66.
+LaTeX Info: Redefining \microtypecontext on input line 72.
+Package microtype Info: Applying patch `item' on input line 72.
+Package microtype Info: Applying patch `toc' on input line 72.
+Package microtype Info: Applying patch `eqnum' on input line 72.
+Package microtype Info: Applying patch `footnote' on input line 72.
+Package microtype Info: Applying patch `verbatim' on input line 72.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 25, shrink: 25, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 66.
+LaTeX Info: Redefining \showhyphens on input line 72.
 Package microtype Info: Tracking enabled.
 Package microtype Info: Using default tracking set `smallcaps'.
 Package microtype Info: No adjustment of interword spacing.
@@ -747,7 +747,7 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 \c@mv@tabular=\count336
 \c@mv@boldtabular=\count337
-Package hyperref Info: Link coloring ON on input line 66.
+Package hyperref Info: Link coloring ON on input line 72.
  (CV_TEDESCHI_Andrea_Alfonso.out) (CV_TEDESCHI_Andrea_Alfonso.out)
 \@outlinefile=\write4
 \openout4 = `CV_TEDESCHI_Andrea_Alfonso.out'.
@@ -957,10 +957,10 @@ Package rerunfilecheck Info: File `CV_TEDESCHI_Andrea_Alfonso.out' has not chang
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 31487 strings out of 474486
- 628795 string characters out of 5740451
+ 31488 strings out of 474486
+ 628801 string characters out of 5740451
  1955542 words of memory out of 5000000
- 52948 multiletter control sequences out of 15000+600000
+ 52949 multiletter control sequences out of 15000+600000
  845473 words of font info for 224 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,11n,87p,1073b,1002s stack positions out of 10000i,1000n,20000p,200000b,200000s
