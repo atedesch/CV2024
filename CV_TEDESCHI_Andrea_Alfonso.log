@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.7)  12 NOV 2024 01:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.7)  18 NOV 2024 18:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -754,43 +754,43 @@ Package hyperref Info: Link coloring ON on input line 66.
 
  (01_Colonna_sinistra.tex
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <14.4> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 54.
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 53.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 54.
+(Font)              scaled to size 14.4pt on input line 53.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/n' in size <14.4> not available
-(Font)              Font shape `T1/FiraSans-OsF/bold/n' tried instead on input line 54.
+(Font)              Font shape `T1/FiraSans-OsF/bold/n' tried instead on input line 53.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/bold/n' will be
-(Font)              scaled to size 14.4pt on input line 54.
+(Font)              scaled to size 14.4pt on input line 53.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/sc' in size <14.4> not available
-(Font)              Font shape `T1/FiraSans-OsF/bold/sc' tried instead on input line 54.
+(Font)              Font shape `T1/FiraSans-OsF/bold/sc' tried instead on input line 53.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/bold/sc' will be
-(Font)              scaled to size 14.4pt on input line 54.
+(Font)              scaled to size 14.4pt on input line 53.
 <SX/Foto_profilo.jpg, id=30, 674.52pt x 785.93625pt>
 File: SX/Foto_profilo.jpg Graphic file (type jpg)
 <use SX/Foto_profilo.jpg>
-Package pdftex.def Info: SX/Foto_profilo.jpg  used on input line 54.
-(pdftex.def)             Requested size: 129.35085pt x 150.70856pt.
+Package pdftex.def Info: SX/Foto_profilo.jpg  used on input line 53.
+(pdftex.def)             Requested size: 113.18108pt x 131.86848pt.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/sc' in size <10.95> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/sc' tried instead on input line 54.
+(Font)              Font shape `T1/FiraSans-OsF/regular/sc' tried instead on input line 53.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/sc' will be
-(Font)              scaled to size 10.95pt on input line 54.
+(Font)              scaled to size 10.95pt on input line 53.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/sc' in size <10.95> not available
-(Font)              Font shape `T1/FiraSans-OsF/bold/sc' tried instead on input line 54.
+(Font)              Font shape `T1/FiraSans-OsF/bold/sc' tried instead on input line 53.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/bold/sc' will be
-(Font)              scaled to size 10.95pt on input line 54.
+(Font)              scaled to size 10.95pt on input line 53.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <10> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 54.
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 53.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 54.
-LaTeX Font Info:    Trying to load font information for U+mvs on input line 54.
+(Font)              scaled to size 10.0pt on input line 53.
+LaTeX Font Info:    Trying to load font information for U+mvs on input line 53.
  (C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\tex/latex/marvosym\umvs.fd) (C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 54.
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 53.
  (C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not available
-(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 54.
- (SX/InBreve.tex
+(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 53.
+ (SX/Inbreve_v02_ITA.tex
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/sc' in size <10> not available
 (Font)              Font shape `T1/FiraSans-OsF/regular/sc' tried instead on input line 1.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/sc' will be
@@ -800,26 +800,26 @@ LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/sc' in size <10> not available
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/bold/sc' will be
 (Font)              scaled to size 10.0pt on input line 1.
 )
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 54.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 53.
  (C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree2.fd)
-LaTeX Font Info:    Trying to load font information for TS1+FiraSans-OsF on input line 54.
+LaTeX Font Info:    Trying to load font information for TS1+FiraSans-OsF on input line 53.
  (C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\tex/latex/fira\ts1firasans-osf.fd
 File: TS1FiraSans-OsF.fd 2019/10/10 (autoinst) Font definitions for TS1/FiraSans-OsF.
 )
 LaTeX Font Info:    Font shape `TS1/FiraSans-OsF/m/n' in size <10> not available
-(Font)              Font shape `TS1/FiraSans-OsF/regular/n' tried instead on input line 54.
+(Font)              Font shape `TS1/FiraSans-OsF/regular/n' tried instead on input line 53.
 LaTeX Font Info:    Font shape `TS1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 54.
+(Font)              scaled to size 10.0pt on input line 53.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `FiraSans-OsF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/n' in size <10> not available
-(Font)              Font shape `T1/FiraSans-OsF/bold/n' tried instead on input line 54.
+(Font)              Font shape `T1/FiraSans-OsF/bold/n' tried instead on input line 53.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/bold/n' will be
-(Font)              scaled to size 10.0pt on input line 54.
+(Font)              scaled to size 10.0pt on input line 53.
  (SX/CompetenzeInfo.tex)
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on input line 54.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on input line 53.
  (C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree0.fd)) (02_Colonna_destra.tex (DX/Esperienze_v01_ITA.tex
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/sc' in size <14.4> not available
 (Font)              Font shape `T1/FiraSans-OsF/regular/sc' tried instead on input line 2.
@@ -843,8 +843,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 7.
 ) (DX/Formazione_v01_ITA.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 27--9
-
+Underfull \hbox (badness 4713) in paragraph at lines 27--9
+\OMS/cmsy/m/n/10 ^^E$ \T1/FiraSans-OsF/regular/n/10 (+25) Te-si: La mo-del-li-sti-ca nel-l'ar-ma-men-to fer-ro-via-rio nel-lo stu-dio del
  []
 
 ) (04_CarrieraTV.tex [1
@@ -883,13 +883,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--9
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
  ( FP-EVAL ( FP-UPN ) ) (TV/avanti_un_altro.tex
-<TV/04_avanti.jpg, id=50, 1445.4pt x 813.0375pt>
+<TV/04_avanti.jpg, id=49, 1445.4pt x 813.0375pt>
 File: TV/04_avanti.jpg Graphic file (type jpg)
 <use TV/04_avanti.jpg>
 Package pdftex.def Info: TV/04_avanti.jpg  used on input line 5.
 (pdftex.def)             Requested size: 474.02086pt x 266.6284pt.
 ) (TV/eredita.tex
-<TV/03_eredità.jpg, id=51, 1445.4pt x 813.0375pt>
+<TV/03_eredità.jpg, id=50, 1445.4pt x 813.0375pt>
 File: TV/03_eredità.jpg Graphic file (type jpg)
 <use TV/03_eredità.jpg>
 Package pdftex.def Info: TV/03_eredità.jpg  used on input line 5.
@@ -897,13 +897,13 @@ Package pdftex.def Info: TV/03_eredità.jpg  used on input line 5.
 ) [2
 
  <./TV/04_avanti.jpg> <./TV/03_eredità.jpg>] (TV/fiorello.tex
-<TV/02_vivaraiplay.jpg, id=57, 1445.4pt x 813.0375pt>
+<TV/02_vivaraiplay.jpg, id=56, 1445.4pt x 813.0375pt>
 File: TV/02_vivaraiplay.jpg Graphic file (type jpg)
 <use TV/02_vivaraiplay.jpg>
 Package pdftex.def Info: TV/02_vivaraiplay.jpg  used on input line 6.
 (pdftex.def)             Requested size: 474.02086pt x 266.6284pt.
 ) (TV/mamma_mia.tex
-<TV/01_mamma.jpg, id=58, 1445.4pt x 813.0375pt>
+<TV/01_mamma.jpg, id=57, 1445.4pt x 813.0375pt>
 File: TV/01_mamma.jpg Graphic file (type jpg)
 <use TV/01_mamma.jpg>
 Package pdftex.def Info: TV/01_mamma.jpg  used on input line 5.
@@ -957,17 +957,17 @@ Package rerunfilecheck Info: File `CV_TEDESCHI_Andrea_Alfonso.out' has not chang
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 31493 strings out of 474486
- 628912 string characters out of 5740451
- 1952542 words of memory out of 5000000
+ 31487 strings out of 474486
+ 628795 string characters out of 5740451
+ 1955542 words of memory out of 5000000
  52948 multiletter control sequences out of 15000+600000
- 846133 words of font info for 228 fonts, out of 8000000 for 9000
+ 845473 words of font info for 224 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,11n,87p,1073b,1002s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Swarleyteddy/AppData/Local/Programs/MiKTeX/fonts/type1/public/fira/FiraSans-Bold.pfb><C:/Users/Swarleyteddy/AppData/Local/Programs/MiKTeX/fonts/type1/public/fira/FiraSans-BoldItalic.pfb><C:/Users/Swarleyteddy/AppData/Local/Programs/MiKTeX/fonts/type1/public/fira/FiraSans-Regular.pfb><C:/Users/Swarleyteddy/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/Swarleyteddy/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/Swarleyteddy/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Swarleyteddy/AppData/Local/Programs/MiKTeX/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on CV_TEDESCHI_Andrea_Alfonso.pdf (5 pages, 1760543 bytes).
+Output written on CV_TEDESCHI_Andrea_Alfonso.pdf (5 pages, 1760078 bytes).
 PDF statistics:
- 120 PDF objects out of 1000 (max. 8388607)
+ 119 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
  73862 words of extra memory for PDF output out of 74296 (max. 10000000)
 

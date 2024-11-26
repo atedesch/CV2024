@@ -357,9 +357,9 @@ INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomebrands0.fd
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomebrands0.fd
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fontawesome5\fa5brands0.tfm
-INPUT .\SX\InBreve.tex
-INPUT .\SX\InBreve.tex
-INPUT SX\InBreve.tex
+INPUT .\SX\Inbreve_v02_ITA.tex
+INPUT .\SX\Inbreve_v02_ITA.tex
+INPUT SX\Inbreve_v02_ITA.tex
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-sc-t1.tfm
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-sc-t1.tfm
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Bold-osf-sc-t1.tfm
