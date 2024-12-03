@@ -19,7 +19,12 @@
 	\vspace*{0.0ex} % Extra space after the picture
 
 %------------------------------------------------------------------ Contatti
-	\headleft{Contatti}
+	%\ifthenelse{\equal{\lingua}{ITA}}%
+  	%	{Contatti} % Testo in italiano
+  	%	{Contacts} % Testo in inglese
+
+	%\end{document}
+	%\headleft{Contatti}
 	\small % To fit more content
 	\MVAt\ {\small andrea.a.tedeschi@gmail.com} \\[0.4ex]
 	\Telefon\ +39\,331\,457\,3469 \\[0.5ex]
@@ -30,11 +35,8 @@
 	\input{SX/Inbreve_v01_\lingua.tex}
 
 %------------------------------------------------------------------ Conoscenze Linguistiche
-	\headleft{\faLanguage\ Conoscenze linguistiche}
-	\begin{itemize}
-		\item \textbf{Italiano}~-- madrelingua \\
-		\item \textbf{Inglese}~-- avanzato \\
-	\end{itemize} 
+	\input{SX/ConoscenzeLinguistiche_v01_\lingua.tex}
+
 
 %------------------------------------------------------------------ Competenze informatiche
 	\input{SX/CompetenzeInfo.tex}

@@ -304,6 +304,8 @@ INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\tex\latex\fp\fp-upn.st
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\tex\latex\fp\fp-upn.sty
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\tex\latex\fp\fp-eval.sty
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\tex\latex\fp\fp-eval.sty
+INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\tex\latex\fira\t1firasans-osf.fd
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\tex\latex\fira\t1firasans-osf.fd
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\tex\latex\fira\t1firasans-osf.fd
@@ -341,10 +343,6 @@ INPUT .\SX\Foto_profilo.jpg
 INPUT .\SX\Foto_profilo.jpg
 INPUT .\SX\Foto_profilo.jpg
 INPUT .\SX\Foto_profilo.jpg
-INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-sc-t1.tfm
-INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-sc-t1.tfm
-INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Bold-osf-sc-t1.tfm
-INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Bold-osf-sc-t1.tfm
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-t1.tfm
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\tex\latex\marvosym\umvs.fd
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\tex\latex\marvosym\umvs.fd
@@ -364,6 +362,9 @@ INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-sc-t1.tfm
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Bold-osf-sc-t1.tfm
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Bold-osf-sc-t1.tfm
+INPUT .\SX\ConoscenzeLinguistiche_v01_ITA.tex
+INPUT .\SX\ConoscenzeLinguistiche_v01_ITA.tex
+INPUT SX\ConoscenzeLinguistiche_v01_ITA.tex
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree2.fd
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree2.fd
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree2.fd
@@ -388,10 +389,14 @@ INPUT .\DX\Esperienze_v01_ITA.tex
 INPUT DX\Esperienze_v01_ITA.tex
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-sc-t1.tfm
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-sc-t1.tfm
+INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-sc-t1.tfm
+INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-sc-t1.tfm
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree3.fd
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree3.fd
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree3.fd
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fontawesome5\fa5free3solid.tfm
+INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Bold-osf-sc-t1.tfm
+INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Bold-osf-sc-t1.tfm
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Bold-osf-t1.tfm
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-BoldItalic-osf-t1.tfm
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-cmr.cfg
@@ -410,8 +415,6 @@ INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fira\f
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\vf\public\fira\FiraSans-Bold-osf-sc-t1.vf
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Bold-osf-sc-t1--base.tfm
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fira\fir_2mfh3o.enc
-INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\vf\public\fira\FiraSans-Bold-osf-sc-t1.vf
-INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Bold-osf-sc-t1--base.tfm
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\vf\public\fira\FiraSans-Regular-osf-t1.vf
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-t1--base.tfm
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome5\fa5brands0.enc
@@ -427,6 +430,8 @@ INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontaw
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome5\fa5free3.enc
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\vf\public\fira\FiraSans-Regular-osf-sc-t1.vf
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-sc-t1--base.tfm
+INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\vf\public\fira\FiraSans-Bold-osf-sc-t1.vf
+INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Bold-osf-sc-t1--base.tfm
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\vf\public\fira\FiraSans-Bold-osf-t1.vf
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Bold-osf-t1--base.tfm
 INPUT C:\Users\Swarleyteddy\AppData\Local\Programs\MiKTeX\fonts\vf\public\fira\FiraSans-BoldItalic-osf-t1.vf
